@@ -3,7 +3,7 @@ This is the code repository associated with the paper:
 "Tuning metaheuristic parameters with the use of Large Language Models"
 2026
 
-![Method overview](teaser.pdf)
+![Method overview](teaser.png)
 
 ## Repository Structure
 
